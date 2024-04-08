@@ -4,3 +4,12 @@ div {
 title {
     color: orangered;
 }
+.text {
+    color: red;
+    font-size: 26px;
+    font-weight: bold;
+}
+.text2 {
+    font-weight: bold;
+    color: red;
+}
